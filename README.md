@@ -1,2 +1,4 @@
 # Lab3
-Lab3
+
+Hunter Haskins
+Git Version control lab
